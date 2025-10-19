@@ -1,0 +1,1 @@
+I don't have access to get_stock_news_openai output information

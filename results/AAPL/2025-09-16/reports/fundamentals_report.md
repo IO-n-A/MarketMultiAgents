@@ -1,0 +1,1 @@
+I don't have access to get_fundamentals_openai information.

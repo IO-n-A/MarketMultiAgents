@@ -1,0 +1,3 @@
+To provide a comprehensive report on the current state of the world relevant for trading and macroeconomics, especially focusing on the company AAPL (Apple Inc.) as of the current date (2025-09-06), I will analyze recent news and trends. Given the tools at my disposal, I will start by retrieving the latest macroeconomic news using OpenAI's macroeconomics news API for the current date.
+
+[get_global_news_openai(curr_date="2025-09-06")]

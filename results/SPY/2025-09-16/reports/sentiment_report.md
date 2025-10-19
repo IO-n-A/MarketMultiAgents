@@ -1,0 +1,1 @@
+get_stock_news_openai(ticker="SPY", curr_date="2025-09-16")
