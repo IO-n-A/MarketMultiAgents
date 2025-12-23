@@ -1,4 +1,4 @@
-# MarketAgents
+# MarketMultiAgents
 
 A comprehensive, production-ready multi-agent framework for financial trading using Large Language Models (LLMs), integrating specialized agents for sentiment analysis, technical analysis, fundamental analysis, and trading decision-making. The system provides:
 
